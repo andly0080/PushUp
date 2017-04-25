@@ -58,5 +58,7 @@ public class MainActivity extends AppCompatActivity {
         //test uploaded
 
         int iii = 2+2;
+
+        String test = "Test";
     }
 }
