@@ -63,4 +63,23 @@ public class MainActivity extends AppCompatActivity {
 
         boolean True = false;
     }
+
+
+    public void doSomeWork()
+    {
+        int i =25;
+        int ii = 80;
+
+        String iString = Integer.toString(i);
+        String iiString;
+
+        if(i <= 100)
+        {
+
+            iiString = Integer.toString(ii -9);
+        }
+
+
+
+    }
 }
