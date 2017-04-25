@@ -67,19 +67,18 @@ public class MainActivity extends AppCompatActivity {
 
     public void doSomeWork()
     {
-        int i =60;
-        int ii = 900;
+        int i =7;
+        int ii = 30;
+        int iii = 56;
 
         String iString = Integer.toString(i);
         String iiString;
 
-        if(i <= 100)
+        if(i > 100)
         {
 
-            iiString = Integer.toString(ii +9);
+            iiString = Integer.toString(ii +6);
         }
-
-
 
     }
 }
